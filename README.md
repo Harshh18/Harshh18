@@ -15,7 +15,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Harshh18&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harshh18&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Harshh18&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ## 
 [![An image of @harshh18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshh18)](https://holopin.io/@harshh18)
