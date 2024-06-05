@@ -1,7 +1,12 @@
-# 💫 About Me:
-🎯 Focus, discipline and consistency <br>👯 Looking forward to collaborate with developers in open source communities.<br>🌱 Currently indulged in Data Structures and Algorithms plus Blockchain Technology.<br>💬 Talk to me about Finance, Cryptos, Economics and Bitcoin.
+## 💫 About Me:
+- 📌 Living at the crossroads of Dalal Street and Silicon Valley.
+- 👯 Looking forward to collaborate with developers in open source communities.
+- 🌱 Currently indulged in Data Structures and Algorithms plus Blockchain Technology.
+- 💬 Talk to me about Finance, Cryptos, Economics and Bitcoin.
 
-
+---
+### 🎯 Focus, discipline and consistency
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_.khandelwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-khandelwal18) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hars_khandelwal) 
 
