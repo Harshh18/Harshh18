@@ -1,4 +1,4 @@
-name: Metrics
+name: Metrics embed
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -15,5 +15,6 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-        with:
+        with:   
+          filename: metrics.classic.svg
           token: ${{ secrets.Metrics_Stats }}
