@@ -22,6 +22,9 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.Metrics_Stats }}
+          output_action: commit
+          committer_branch: Harshh18-patch-1
+          committer_message: "chore: update metrics"
 
           # Options
           user: Harshh18
