@@ -27,6 +27,8 @@
 ## 
 [![An image of @harshh18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshh18)](https://holopin.io/@harshh18)
 
+<a href="https://app.daily.dev/harshh18"><img src="https://api.daily.dev/devcards/v2/TDaRg6erPH1pXs1JQZF7g.png?type=wide&r=ubk" width="652" alt="Harsh Khandelwal's Dev Card"/></a>
+
 ---
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br> -->
 [![](https://visitcount.itsvg.in/api?id=Harshh18&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
