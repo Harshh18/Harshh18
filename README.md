@@ -16,10 +16,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=Harshh18&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harshh18&theme=gotham&hide_border=false)<br/> -->
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Harshh18&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Harshh18&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ![Metrics](github-metrics.svg)
