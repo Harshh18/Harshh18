@@ -5,9 +5,9 @@
 - 💬 Talk to me about Finance, Cryptos, Economics and Bitcoin.
 
 ## 🌐 Socials:
-<a href="https://twitter.com/hars_khandelwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalsuryansh" height="30" width="40" /></a>
-<a href="https://instagram.com/harsh_.khandelwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_suryansh_ujjwal1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suryansh21ujjwal" height="30" width="40" /></a>
+<a href="https://twitter.com/hars_khandelwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hars_khandelwal" height="30" width="40" /></a>
+<a href="https://instagram.com/harsh_.khandelwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_.khandelwal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harshhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshhk" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/cu_21bet1091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cu_21bet1091" height="30" width="40" /></a>
 
 ## 💻 Tech Stack:
@@ -28,7 +28,7 @@
 [![An image of @harshh18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshh18)](https://holopin.io/@harshh18)
 
 ---
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br> 
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br> -->
 [![](https://visitcount.itsvg.in/api?id=Harshh18&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
  
