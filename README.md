@@ -1,8 +1,8 @@
 ## 💫 About Me:
 - 📌 Living at the crossroads of Dalal Street and Silicon Valley.
 - 👯 Looking forward to collaborate with developers in open source communities.
-- 🌱 Currently indulged in Data Structures and Algorithms plus Blockchain Technology.
-- 💬 Talk to me about Finance, Cryptos, Economics and Bitcoin.
+- 🌱 Currently indulged in Data Structures, Algorithms, Blockchain and Devops.
+- 💸 Talk to me about Finance and Bitcoin.
 
 ## 🌐 Socials:
 <a href="https://twitter.com/hars_khandelwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hars_khandelwal" height="30" width="40" /></a>
