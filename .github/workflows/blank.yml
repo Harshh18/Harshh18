@@ -47,11 +47,11 @@ jobs:
           plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 6
-          plugin_leetcode_limit_skills: 15
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: Harshhk
+          #plugin_leetcode: yes
+          #plugin_leetcode_limit_recent: 6
+          #plugin_leetcode_limit_skills: 15
+          #plugin_leetcode_sections: solved
+          #plugin_leetcode_user: Harshhk
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_repositories: yes
